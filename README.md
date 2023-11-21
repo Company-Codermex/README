@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me nombre es Marcos López</h1>
+<h1 align="center">Hola 👋, mi nombre es Marcos López</h1>
 <h3 align="center">Un apasionado del desarrollo Frontend</h3>
 
 - 🔭 Actualmente estoy trabajando en **CNP Seguros**
