@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me nombre es Marcos López</h1>
 <h3 align="center">Un apasionado del desarrollo Frontend</h3>
-
+- - -
 - 🔭 Actualmente estoy trabajando en **CNP Seguros**
 
 - 🌱 Actualmente estoy aprendiendo **HTML5, CSS3 y JAVASCRIPT**
