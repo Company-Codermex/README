@@ -3,7 +3,7 @@
 
 
 
-<
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=company-codermex" alt="company-codermex" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/codermexdev" target="blank"><img src=" https://img.shields.io/twitter/follow/https://twitter.com/codermexdev?logo=twitter&style=for-the-badge" alt="https://twitter.com/codermexdev" /></a> </p>
 
